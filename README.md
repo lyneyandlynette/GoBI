@@ -8,7 +8,7 @@ conda create -n gobi python=3.7
 conda activate gobi 
 pip install -r requirements.txt
 ```
-## collect data
+## Collect Data
 ```
 . ./collect_data.sh
 ```
